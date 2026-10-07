@@ -74,7 +74,9 @@ Focusing the laser will vary with which material you are using. **Focusing** is 
 
 5. `Cycles` can be changed to `2` or `3` depending on the material and shape
 
-6. Select `Print` for an immediate print, or `Send to JM` if 
+6. `Air Assist` always `ON`
+
+7. Select `Print` for an immediate print, or `Send to JM` if 
 
 # Laser cutting
 
