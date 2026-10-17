@@ -3,7 +3,7 @@
 - Calibrated filaments for Elegoo (in Cura)
 - Dont change deflection when importing
 - Layer lines perpendicular to the final piece's stress/interactivity is ideal, for durability
-- Slice your piece to check for overhangs, w
+- Slice your piece to check for overhangs
 
 # Strength 
 layer height/thickness (0.2-0.24, OR 2.4 for quality) 
