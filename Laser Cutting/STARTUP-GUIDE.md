@@ -76,7 +76,7 @@ Focusing the laser will vary with which material you are using. **Focusing** is 
 
 6. `Air Assist` always `ON`
 
-7. Select `Print` for an immediate print, or `Send to JM` if 
+7. Select `Print` for an immediate print, or `Send to JM` if object is needed for repeat cuts. 
 
 # Laser cutting
 
