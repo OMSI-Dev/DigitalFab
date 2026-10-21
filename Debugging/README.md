@@ -1,7 +1,9 @@
 # Table of Contents
 
-- [Mosfets](#mosfets)
-- 
+<p style = "font-size=20px">
+- [Mosfets](#mosfets) <br>
+- [RJ45 Ethernet Ports](#rj45-ethernet-ports) <br>
+</p>
 
 
 
@@ -9,8 +11,8 @@
 
 **Debugging Reverse Voltage Protection P-Channel and N-Channel Mosfets**
 
-<img src = "/Debugging/ref-images/MOSFETS.png" width="500" alt="MOSFETS diagram">
-<img src = "/Debugging/ref-images/N-MOSFET.png" width="500" alt="MOSFETS diagram">
+<img src = "/Debugging/ref-images/MOSFETS.png" width="450" alt="MOSFETS diagram">
+<img src = "/Debugging/ref-images/N-MOSFET.png" width="450" alt="MOSFETS diagram">
 
 Using `Continuity` and `Voltage` settings on your multimeter to test connections on a `P-Mosfet` or `N-Mosfet`, reference the diagram above and use the chart below.
 
